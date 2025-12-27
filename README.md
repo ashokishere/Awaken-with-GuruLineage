@@ -1,5 +1,6 @@
 # Awaken with GuruLineage
 
+
 A spiritual and high-performance image slideshow application designed for continuous display.
 
 ## How to push to GitHub
